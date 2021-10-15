@@ -1,0 +1,20 @@
+.summary {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  font-family: inherit;
+  color: white;
+  text-align: center;
+  border: none;
+  background-color: #3f3f3f;
+  box-shadow: 0px 0px 5px rgb(56, 45, 45), 0 0 10px rgb(73, 30, 30);
+  width: 90%;
+  max-width: 45rem;
+  margin: auto;
+  margin-top: -10rem;
+}
+
+.summary h2 {
+  font-size: 2rem;
+  margin-top: 0;
+}
